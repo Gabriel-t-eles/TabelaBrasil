@@ -1,0 +1,162 @@
+table{
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid #dddd;
+    border-collapse: collapse;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Primeiros{
+    color: #036;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.santos{
+    color: #1398be;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.terceiro{
+    color: #de9800;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.Quarto{
+    color: #cccccc;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.Quinto{
+    color: #c91b04;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.Titulo{
+    font-size: 13px;
+    color: #999999;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.time{
+    font-size: 14px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.pontos{
+    font-size: 14px;
+    color: black;
+    font-weight: 700;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+.vitoria{
+    background-color: #f7f7f7;
+
+}
+
+.coluna{
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+tr,td{
+    border-bottom: 1px solid #ddd;   
+}
+
+.bordaa{
+    border-bottom: 2px solid #ccc;
+}
+
+div{
+    width: 150px;
+    
+}
+
+.color1{
+    background-color: #036;
+    position: relative ;
+    width: 10px;
+    height: 10px;
+    left: 20px;
+    top: 0px;
+  
+}
+
+.texto1{
+    position: fixed;
+    top: 502px;
+    left: 425px;
+    font-size: 10px;
+    color: #8f8f8f;
+}
+
+.color2{
+    background-color: #1398be;
+    position: relative ;
+    width: 10px;
+    height: 10px;
+    left: 90px;
+    top: 0px;
+}
+
+.texto2{
+    position: fixed;
+    top: 492px;
+    left: 552px;
+    font-size: 10px;
+    color: #8f8f8f;
+}
+
+.color3{
+    background-color: #de9800;
+    position: relative;
+    width: 10px;
+    height: 10px;
+    right: 10px;
+    top: 0px;
+}
+
+.texto3{
+    position: fixed;
+    top: 502px;
+    left: 690px;
+    font-size: 10px;
+    color: #8f8f8f;
+}
+
+.color4{
+    background-color: red;
+    position: relative;
+    width: 10px;
+    height: 10px;
+    left: 49px;
+}
+
+.texto4{
+    position: fixed;
+    font-size: 10px;
+    right: 535px;
+    top: 502px;
+    color: #8f8f8f;
+}
+
+
+
